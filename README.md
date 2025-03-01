@@ -1,4 +1,4 @@
-![2025-03-01T15_34_10 076Z](https://github.com/user-attachments/assets/2e9ec15e-4c6c-4e53-854d-672dfa00f654)# Claims---Fraud-Trends
+# Claims---Fraud-Trends
 Power BI Dashboard that visualizes the financial performance of insurance claims.
 # Insurance Claims Dashboard - Power BI
 
