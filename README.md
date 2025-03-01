@@ -1,13 +1,14 @@
-# Claims---Fraud-Trends
+![2025-03-01T15_34_10 076Z](https://github.com/user-attachments/assets/2e9ec15e-4c6c-4e53-854d-672dfa00f654)# Claims---Fraud-Trends
 Power BI Dashboard that visualizes the financial performance of insurance claims.
 # Insurance Claims Dashboard - Power BI
 
 ## Overview
 This project is a **Power BI Dashboard** that visualizes the financial performance of insurance claims. The dataset contains details of claims processed in **January and February**. The objective is to provide leadership with quick insights into the claims data, including fraudulent claims and various influencing factors.
 
-## Prview
+## Preview
 
-![{F5C87265-3B23-4D09-AF4B-FFB87CFD071C}](https://github.com/user-attachments/assets/ea362e5a-0343-42bf-9aff-78c1150310ae)
+![2025-03-01T15_34_10 076Z](https://github.com/user-attachments/assets/bb246068-6cd1-4199-8354-c77a1d0fbd90)
+
 
 
 ## Dataset Information
